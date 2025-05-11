@@ -55,4 +55,30 @@
 
 <br clear="both">
 
-<di
+<div align="center">
+  <a href="https://www.instagram.com/osmarg_99/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="35" alt="instagram logo" />
+  </a>
+  <a href="https://www.twitch.tv/machinadeguerra" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=flat" height="35" alt="twitch logo" />
+  </a>
+  <a href="https://discord.com/channels/@machinadeguerra#2097" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="35" alt="discord logo" />
+  </a>
+  <a href="www.linkedin.com/in/osmar-gimenez-5971b0187" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo" />
+  </a>
+  <a href="mailto:osmar_gimenez@outlook.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=flat" height="35" alt="microsoft-outlook logo" />
+  </a>
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/OsmarGimenez/OsmarGimenez/output/snake.svg" alt="Snake animation" />
+
+<img src="https://raw.githubusercontent.com/OsmarGimenez/OsmarGimenez/output/pacman.svg" alt="Pacman contribution graph" />
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/OsmarGimenez/count.svg?" />
+</div>
