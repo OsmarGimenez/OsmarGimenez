@@ -76,8 +76,9 @@
 
 ###
 
-[![Snake animation](https://raw.githubusercontent.com/OsmarGimenez/OsmarGimenez/output/snake.svg)](https://raw.githubusercontent.com/OsmarGimenez/OsmarGimenez/output/snake.svg)
-<img src="https://raw.githubusercontent.com/OsmarGimenez/OsmarGimenez/output/pacman.svg" alt="Pacman contribution graph" />
+<img src="https://osmargimenez.github.io/OsmarGimenez/snake.svg" alt="Snake animation" />
+
+<img src="https://osmargimenez.github.io/OsmarGimenez/pacman.svg" alt="Pacman animation" />
 
 
 ###
