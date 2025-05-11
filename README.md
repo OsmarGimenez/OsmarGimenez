@@ -75,9 +75,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/OsmarGimenez/OsmarGimenez/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/OsmarGimenez/OsmarGimenez/main/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/OsmarGimenez/OsmarGimenez/main/pacman.svg" alt="Pacman contribution graph" />
 
-<img src="https://raw.githubusercontent.com/OsmarGimenez/OsmarGimenez/output/pacman.svg" alt="Pacman contribution graph" />
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/OsmarGimenez/count.svg?" />
