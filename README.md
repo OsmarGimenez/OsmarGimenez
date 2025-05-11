@@ -81,11 +81,7 @@
   <img alt="Snake animation" src="https://raw.githubusercontent.com/OsmarGimenez/OsmarGimenez/output/snake.svg">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://osmargimenez.github.io/OsmarGimenez/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://osmargimenez.github.io/OsmarGimenez/pacman-contribution-graph.svg">
-  <img alt="Pacman Contribution Graph" src="https://osmargimenez.github.io/OsmarGimenez/pacman-contribution-graph.svg">
-</picture>
+
 
 
 ###
