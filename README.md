@@ -75,8 +75,12 @@
 
 
 ###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OsmarGimenez/OsmarGimenez/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OsmarGimenez/OsmarGimenez/output/snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/OsmarGimenez/OsmarGimenez/output/snake.svg">
+</picture>
 
-<img src="https://raw.githubusercontent.com/OsmarGimenez/OsmarGimenez/output/snake.svg" alt="Snake animation" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://osmargimenez.github.io/OsmarGimenez/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://osmargimenez.github.io/OsmarGimenez/pacman-contribution-graph.svg">
