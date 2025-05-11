@@ -1,4 +1,4 @@
-name: Generate Snake and Pacman Graph
+name: Generate Snake Animation
 
 on:
   schedule:
@@ -14,7 +14,6 @@ jobs:
           github_user_name: OsmarGimenez
           outputs: |
             dist/snake.svg
-            dist/pacman-contribution-graph.svg
 
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v3
