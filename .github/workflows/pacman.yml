@@ -16,6 +16,11 @@ jobs:
             dist/pacman.svg
           mode: pacman
 
+      - name: Prepare output folder
+        run: |
+          mkdir -p dist
+          mv pacman.svg dist/
+
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
