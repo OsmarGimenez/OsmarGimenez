@@ -6,14 +6,15 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate-pacman:
+  generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: leandrovsf/pacman-contribution-graph@v1
+      - uses: Platane/snk@v3
         with:
           github_user_name: OsmarGimenez
           outputs: |
             dist/pacman.svg
+          mode: pacman
 
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v3
